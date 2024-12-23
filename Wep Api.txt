@@ -1,0 +1,38 @@
+<Wep API>
+
+- HTTP 서비스
+- RESTful : 다양한 장치에서의 접근을 위해 만들어진 웹기술
+- 배우기 쉬움, 클라우드로 확장을 손쉽게 가능
+
+-HTTP 서비스
+: HTTP를 사용하는 응용 프로그램 프로토콜(GET, POST, PUT, DELETE)
+: HTTP를 통해서 로직, 데이터 접근
+: 인터넷을 통해 접근
+: 서로 다른 클라이언트 접근을 허용
+: 동일한 인터페이스 사용
+: 프로그램 프로토콜(GET, POST, PUT, DELETE)을 통해 리소스 접근
+ -> CRUD 구현 (생성 = CREATE, 읽기 = READ, 수정 = UPDATE, 삭제 = DELETE)
+
+: HTTP : 응답 프로토콜 (요청에 대한 응답만 해줌)
+: 요청, 응답 -> 포맷 : 헤더와 본문
+
+: 응답시 상태코드로 응답 타입 표시
+200 OK
+201 Create
+400 Bad Request
+500 Internet Server Error
+
+- RESTful
+: 클라이언트 - 서버간 데이터를 주고 받는다(JSON, XML 등)
+: 다양한 장치에서의 접근
+: 요청에 따라 해당 데이터만 RETRUN
+: ASP.NET API를 이용해 구현
+
+Wep API 개발 테스트 도구
+: 웹 브라우저
+: Postman
+
+
+
+
+
