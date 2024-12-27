@@ -1,0 +1,10 @@
+D:\Project\MyWepApi\MyPoint\bin\Debug\MyPoint.dacpac
+D:\Project\MyWepApi\MyPoint\bin\Debug\MyPoint.dll
+D:\Project\MyWepApi\MyPoint\bin\Debug\MyPoint.pdb
+D:\Project\MyWepApi\MyPoint\obj\Debug\MyPoint.sqlproj.AssemblyReference.cache
+D:\Project\MyWepApi\MyPoint\obj\Debug\Model.xml
+D:\Project\MyWepApi\MyPoint\obj\Debug\refactor.xml
+D:\Project\MyWepApi\MyPoint\obj\Debug\postdeploy.sql
+D:\Project\MyWepApi\MyPoint\obj\Debug\predeploy.sql
+D:\Project\MyWepApi\MyPoint\obj\Debug\MyPoint.dll
+D:\Project\MyWepApi\MyPoint\obj\Debug\MyPoint.pdb

@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Project\\MyWepApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywepapi\\apihelloworld\\controllers\\myrankingservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\controllers\\myrankingservicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywepapi\\apihelloworld\\views\\myrankingservicestest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\views\\myrankingservicestest\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywepapi\\apihelloworld\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|d:\\project\\mywepapi\\apihelloworld\\controllers\\apihelloworldwithvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B6754914-BEF4-48B3-BEBC-74FEF47DF1CB}|ApiHelloWorld\\ApiHelloWorld.csproj|solutionrelative:apihelloworld\\controllers\\apihelloworldwithvalue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,24 +38,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Views\\MyRankingServicesTest\\Index.cshtml",
+              "RelativeDocumentMoniker": "ApiHelloWorld\\Views\\MyRankingServicesTest\\Index.cshtml",
+              "ToolTip": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Views\\MyRankingServicesTest\\Index.cshtml",
+              "RelativeToolTip": "ApiHelloWorld\\Views\\MyRankingServicesTest\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T01:40:30.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MyRankingServicesController.cs",
+              "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\MyRankingServicesController.cs",
+              "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\MyRankingServicesController.cs",
+              "ToolTip": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\MyRankingServicesController.cs",
+              "RelativeToolTip": "ApiHelloWorld\\Controllers\\MyRankingServicesController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T00:47:12.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\ServicesController.cs",
+              "ToolTip": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "ApiHelloWorld\\Controllers\\ServicesController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwFUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T01:47:35.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ApiHelloWorldWithValue.cs",
               "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\ApiHelloWorldWithValue.cs",
               "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\ApiHelloWorldWithValue.cs",
               "ToolTip": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\ApiHelloWorldWithValue.cs",
               "RelativeToolTip": "ApiHelloWorld\\Controllers\\ApiHelloWorldWithValue.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACAAAAA5AAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFQAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T03:08:10.796Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T03:08:10.796Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "ApiHelloWorldController.cs",
               "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
               "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
@@ -51,12 +101,11 @@
               "RelativeToolTip": "ApiHelloWorld\\Controllers\\ApiHelloWorldController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T02:44:18.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T02:44:18.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ValuesController.cs",
               "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\ValuesController.cs",
               "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\ValuesController.cs",
@@ -64,12 +113,11 @@
               "RelativeToolTip": "ApiHelloWorld\\Controllers\\ValuesController.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAwwB8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T02:20:44.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T02:20:44.482Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Project\\MyWepApi\\ApiHelloWorld\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ApiHelloWorld\\Controllers\\HomeController.cs",
@@ -77,8 +125,7 @@
               "RelativeToolTip": "ApiHelloWorld\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T02:16:55.599Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-23T02:16:55.599Z"
             }
           ]
         }
