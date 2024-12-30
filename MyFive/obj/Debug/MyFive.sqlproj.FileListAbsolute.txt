@@ -1,0 +1,10 @@
+D:\Project\MyWepApi\MyFive\bin\Debug\MyFive.dacpac
+D:\Project\MyWepApi\MyFive\bin\Debug\MyFive.dll
+D:\Project\MyWepApi\MyFive\bin\Debug\MyFive.pdb
+D:\Project\MyWepApi\MyFive\obj\Debug\MyFive.sqlproj.AssemblyReference.cache
+D:\Project\MyWepApi\MyFive\obj\Debug\Model.xml
+D:\Project\MyWepApi\MyFive\obj\Debug\refactor.xml
+D:\Project\MyWepApi\MyFive\obj\Debug\postdeploy.sql
+D:\Project\MyWepApi\MyFive\obj\Debug\predeploy.sql
+D:\Project\MyWepApi\MyFive\obj\Debug\MyFive.dll
+D:\Project\MyWepApi\MyFive\obj\Debug\MyFive.pdb
